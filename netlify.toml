@@ -2,5 +2,5 @@
   base="/frontend/"
 [[redirects]]
   from = "/*"
-  to = "/"
+  to = "/404.html"
   status=404
