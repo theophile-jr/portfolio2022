@@ -1,11 +1,9 @@
-body,
-html {
+body, html {
 	height: 100%;
 	width: 100%;
 	background-color: black;
-    color: white;
+	color: white;
 }
-
 #home {
 	background-image: url("../assets/main-bg.jpg");
 	height: 100%;
@@ -16,22 +14,16 @@ html {
 	align-items: center;
 	justify-content: center;
 }
-
 .content-section {
 	text-align: center;
 	padding-top: 200px;
 	padding-bottom: 200px;
-
 }
-
 a, a:hover {
 	text-decoration: none;
 	color: white;
 }
-
 #chevron {
 	font-size: 30px;
 	margin-top: 40px;
 }
-
-
