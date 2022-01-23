@@ -19,3 +19,8 @@ contenu de ce site peu intérêt :
 
 
 
+seo update possible :
+- contenu (must), microdata, 
+- social(og:+ graphql,..),
+- libs: fa & bootstrap --> smaller
+- minify : js html
