@@ -43,3 +43,19 @@ footer {
 nav .active{
     border-bottom: white solid 1px;
 }
+
+/* loading animation*/
+.no-js .lds-ripple { /*user has no javascript, won't display gif because js won't be able to remove*/
+	display: none;
+}
+
+
+.js .lds-ripple { /*styling loading animation*/
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	transform: scale(2);
+}
