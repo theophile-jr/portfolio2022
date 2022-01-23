@@ -24,3 +24,4 @@ seo update possible :
 - social(og:+ graphql,..),
 - libs: fa & bootstrap --> smaller
 - minify : js html
+https://suite.seotesteronline.com/seo-checker/dGpyd2ViLmZy/social
